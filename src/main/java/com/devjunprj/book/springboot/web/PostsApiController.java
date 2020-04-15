@@ -1,7 +1,7 @@
 package com.devjunprj.book.springboot.web;
 
 
-import com.devjunprj.book.springboot.service.posts.PostsService;
+import com.devjunprj.book.springboot.service.PostsService;
 import com.devjunprj.book.springboot.web.dto.PostsListResponseDto;
 import com.devjunprj.book.springboot.web.dto.PostsResponseDto;
 import com.devjunprj.book.springboot.web.dto.PostsSaveRequestDto;

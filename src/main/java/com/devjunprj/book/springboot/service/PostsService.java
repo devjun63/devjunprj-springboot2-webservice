@@ -1,4 +1,4 @@
-package com.devjunprj.book.springboot.service.posts;
+package com.devjunprj.book.springboot.service;
 
 
 import com.devjunprj.book.springboot.domain.posts.Posts;
