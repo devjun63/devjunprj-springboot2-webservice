@@ -22,7 +22,7 @@ apply plugin: 'io.spring.dependency-management'
 * 자바와 스프링 부트를 사용하기 위한 플러그인
 * */
 group 'com.devjun.book'
-version '1.0.1-SNAPSHOT'
+version '1.0.1-SNAPSHOT-'+new Date().format("yyyyMMddHHmmss")
 sourceCompatibility = 1.8
 
 repositories {
