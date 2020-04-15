@@ -1,6 +1,5 @@
 package com.devjunprj.book.springboot.domain.posts;
 
-
 import com.devjunprj.book.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
